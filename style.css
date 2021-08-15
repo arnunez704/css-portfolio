@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    flex-direction: row;
+    border-radius: 2px;
+    border-color: blue;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+nav {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+nav a {
+    font-size:medium ;
+
+
+}
